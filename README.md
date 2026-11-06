@@ -30,6 +30,12 @@ Para ver la corrida completa:
 mix run demo.exs
 ```
 
+Para correr un solo problema:
+
+```bash
+mix run demo.exs 3
+```
+
 Para correr las pruebas:
 
 ```bash
