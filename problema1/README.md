@@ -1,7 +1,7 @@
 # Problema 1
 
-Las respuestas del problema 1 están escritas a mano y se entregan en PDF dentro
-de esta carpeta:
+Las respuestas del problema 1 están escritas a mano, en
+`Problema1_Lambda_Harry_Mendez.pdf`:
 
 - reducción-β de la operación lógica NOT
 - cómo se verían la recursión y los ciclos

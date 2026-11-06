@@ -9,11 +9,11 @@ superior del módulo `Enum`.
 
 ## Video
 
-Ejecución del programa: [ver en YouTube](PENDIENTE_LINK_YOUTUBE)
+Ejecución del programa: https://youtu.be/8w1sdyCymIo
 
 ## Contenido del repositorio
 
-- `problema1/` — respuestas escritas a mano del problema 1, en PDF.
+- `problema1/Problema1_Lambda_Harry_Mendez.pdf` — respuestas escritas a mano del problema 1.
 - `lib/lab12/problema2.ex` — ordenar una lista de diccionarios por un key.
 - `lib/lab12/problema3.ex` — transpuesta de una matriz.
 - `lib/lab12/problema4.ex` — eliminar elementos indicados de una lista.
